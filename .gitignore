@@ -1,6 +1,7 @@
 data/*
 !data/.gitkeep
 !data/postal/.gitkeep
+config/custom-envs
 codeship.aes
 daily.sh
-
+.idea/
